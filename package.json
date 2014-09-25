@@ -1,13 +1,12 @@
 {
   "name": "language-cython",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Cython language support in Atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/pierriko/language-cython.git"
