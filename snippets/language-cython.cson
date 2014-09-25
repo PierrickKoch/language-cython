@@ -1,0 +1,7 @@
+'.source.cython':
+  '__name__':
+    'prefix': '__'
+    'body': '__${1:init}__\t'
+  'self':
+    'prefix': '.'
+    'body': 'self.'
