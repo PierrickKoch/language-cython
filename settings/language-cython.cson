@@ -1,0 +1,5 @@
+".source.cython":
+  editor:
+    commentStart: "# "
+    increaseIndentPattern: "^\\s*(ctypedef\\s+)?(class|def|elif|else|except|finally|for|if|try|with|while|struct|enum|union|property|cdef)\\b.*:\\s*$"
+    decreaseIndentPattern: "^\\s*(elif|else|except|finally)\\b.*:"
