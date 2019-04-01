@@ -8,4 +8,4 @@ from the [Cython TextMate bundle](http://svn.textmate.org/trunk/Review/Bundles/C
 Contributions are greatly appreciated. Please fork this repository and open a
 pull request to add snippets, make grammar tweaks, etc.
 
-![atom cython](http://pierriko.com/language-cython/atom-cython.png)
+![atom cython](https://pierriko.github.io/language-cython/atom-cython.png)
